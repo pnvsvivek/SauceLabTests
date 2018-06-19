@@ -29,7 +29,7 @@ public class GoogleSearch {
 	
 	WebDriver driver=null;
 	
-	ExtentReports report = new ExtentReports("C:\\Users\\p.nvs.vivek\\Desktop\\SauceLabTests\\testReports\\report.html");
+	ExtentReports report = new ExtentReports("./testReports/report.html");
 	ExtentTest test = null;
 	
 	@BeforeMethod
