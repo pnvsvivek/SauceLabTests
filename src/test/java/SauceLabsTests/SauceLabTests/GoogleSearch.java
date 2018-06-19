@@ -23,8 +23,8 @@ import java.util.concurrent.TimeUnit;
 
 public class GoogleSearch {
 	
-	public static final String USERNAME = "pnvsvivek";
-	public static final String ACCESS_KEY = "20f265d7-03d6-43a5-84b7-0745d2759a48";
+	public static final String USERNAME = "pnvsvivek123";
+	public static final String ACCESS_KEY = "9bb84e95-a2da-42f0-b42a-9ef5f593a4dd";
 	public static final String URL = "http://" + USERNAME + ":" + ACCESS_KEY + "@ondemand.saucelabs.com:80/wd/hub";
 	
 	WebDriver driver=null;
