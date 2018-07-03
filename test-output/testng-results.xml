@@ -2,40 +2,40 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="62701" started-at="2018-07-03T14:48:42Z" finished-at="2018-07-03T14:49:45Z">
+  <suite name="Suite" duration-ms="44386" started-at="2018-07-03T16:28:07Z" finished-at="2018-07-03T16:28:52Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="62701" started-at="2018-07-03T14:48:42Z" finished-at="2018-07-03T14:49:45Z">
+    <test name="Test" duration-ms="44386" started-at="2018-07-03T16:28:07Z" finished-at="2018-07-03T16:28:52Z">
       <class name="SauceLabsTests.SauceLabTests.GoogleSearch">
-        <test-method status="PASS" signature="setup()[pri:0, instance:SauceLabsTests.SauceLabTests.GoogleSearch@3444d69d]" name="setup" is-config="true" duration-ms="26547" started-at="2018-07-03T20:18:42Z" finished-at="2018-07-03T20:19:09Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:SauceLabsTests.SauceLabTests.GoogleSearch@4d41cee]" name="setup" is-config="true" duration-ms="14852" started-at="2018-07-03T21:58:08Z" finished-at="2018-07-03T21:58:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="changeSearchCriterion()[pri:0, instance:SauceLabsTests.SauceLabTests.GoogleSearch@3444d69d]" name="changeSearchCriterion" duration-ms="10993" started-at="2018-07-03T20:19:09Z" finished-at="2018-07-03T20:19:20Z">
+        <test-method status="PASS" signature="changeSearchCriterion()[pri:0, instance:SauceLabsTests.SauceLabTests.GoogleSearch@4d41cee]" name="changeSearchCriterion" duration-ms="8912" started-at="2018-07-03T21:58:22Z" finished-at="2018-07-03T21:58:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- changeSearchCriterion -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:SauceLabsTests.SauceLabTests.GoogleSearch@3444d69d]" name="tearDown" is-config="true" duration-ms="634" started-at="2018-07-03T20:19:20Z" finished-at="2018-07-03T20:19:21Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SauceLabsTests.SauceLabTests.GoogleSearch@4d41cee]" name="tearDown" is-config="true" duration-ms="536" started-at="2018-07-03T21:58:31Z" finished-at="2018-07-03T21:58:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:SauceLabsTests.SauceLabTests.GoogleSearch@3444d69d]" name="setup" is-config="true" duration-ms="17006" started-at="2018-07-03T20:19:21Z" finished-at="2018-07-03T20:19:38Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:SauceLabsTests.SauceLabTests.GoogleSearch@4d41cee]" name="setup" is-config="true" duration-ms="14052" started-at="2018-07-03T21:58:32Z" finished-at="2018-07-03T21:58:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="searchGoogle()[pri:0, instance:SauceLabsTests.SauceLabTests.GoogleSearch@3444d69d]" name="searchGoogle" duration-ms="7041" started-at="2018-07-03T20:19:38Z" finished-at="2018-07-03T20:19:45Z">
+        <test-method status="PASS" signature="searchGoogle()[pri:0, instance:SauceLabsTests.SauceLabTests.GoogleSearch@4d41cee]" name="searchGoogle" duration-ms="5531" started-at="2018-07-03T21:58:46Z" finished-at="2018-07-03T21:58:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchGoogle -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:SauceLabsTests.SauceLabTests.GoogleSearch@3444d69d]" name="tearDown" is-config="true" duration-ms="440" started-at="2018-07-03T20:19:45Z" finished-at="2018-07-03T20:19:45Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SauceLabsTests.SauceLabTests.GoogleSearch@4d41cee]" name="tearDown" is-config="true" duration-ms="469" started-at="2018-07-03T21:58:51Z" finished-at="2018-07-03T21:58:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="getReport()[pri:0, instance:SauceLabsTests.SauceLabTests.GoogleSearch@3444d69d]" name="getReport" is-config="true" duration-ms="660" started-at="2018-07-03T20:19:45Z" finished-at="2018-07-03T20:19:46Z">
+        <test-method status="PASS" signature="getReport()[pri:0, instance:SauceLabsTests.SauceLabTests.GoogleSearch@4d41cee]" name="getReport" is-config="true" duration-ms="1020" started-at="2018-07-03T21:58:52Z" finished-at="2018-07-03T21:58:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getReport -->
       </class> <!-- SauceLabsTests.SauceLabTests.GoogleSearch -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
